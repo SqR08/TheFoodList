@@ -1,0 +1,14 @@
+//////////////////////////////////////////////////////////////
+The Toronto Food List [Summer 2018]
+
+Format:
+
+#. "Name" ('origin') ['rating out of 5'] //"review"
+/////////////////////////////////////////////////////////////
+
+1. Assembly Chef Hall (random) [] //
+2. Fat Lamb Kouzina (greek) [] // 
+3. Onnki Donburi (japanese) [] //
+4. Lasa by Lamesa (philipino) [] //
+6. PAI (thai) [] //
+7. Tacos101 (mexican) [] //
