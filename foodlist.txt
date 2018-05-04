@@ -9,6 +9,6 @@ Format:
 1. Assembly Chef Hall (random) [] //
 2. Fat Lamb Kouzina (greek) [] // 
 3. Onnki Donburi (japanese) [] //
-4. Lasa by Lamesa (philipino) [] //
+4. Lasa by Lamesa (filipino) [] //
 6. PAI (thai) [] //
 7. Tacos101 (mexican) [] //
